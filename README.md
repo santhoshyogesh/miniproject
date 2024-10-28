@@ -4,10 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The **Patient Temperature Monitoring System** is designed to monitor and track the body temperature of patients in real-time. This system helps in early detection of fever or other health issues, enabling timely medical intervention.
